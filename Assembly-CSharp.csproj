@@ -52,7 +52,10 @@
      <Folder Include="Assets\Settings" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\Scripts" />
+     <Folder Include="Assets\Art" />
+     <Folder Include="Assets\Art\Texture" />
      <Folder Include="Assets\TutorialInfo\Scripts" />
+     <Folder Include="Assets\Art\Matrail" />
      <Folder Include="Assets\TutorialInfo\Icons" />
      <Folder Include="Assets\TutorialInfo" />
      <Reference Include="UnityEngine">
